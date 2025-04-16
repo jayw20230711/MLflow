@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/ff5cfefbe11d435dbdd031d01384b26d/artifacts
+end_time: 1744827431585
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff5cfefbe11d435dbdd031d01384b26d
+run_name: gaudy-hare-861
+run_uuid: ff5cfefbe11d435dbdd031d01384b26d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744827418145
+status: 3
+tags: []
+user_id: jay_s

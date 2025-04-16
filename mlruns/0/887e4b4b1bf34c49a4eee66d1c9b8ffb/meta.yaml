@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/887e4b4b1bf34c49a4eee66d1c9b8ffb/artifacts
+deleted_time: 1744829546180
+end_time: 1744828839453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 887e4b4b1bf34c49a4eee66d1c9b8ffb
+run_name: learned-bat-749
+run_uuid: 887e4b4b1bf34c49a4eee66d1c9b8ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744828838028
+status: 4
+tags: []
+user_id: jay_s
