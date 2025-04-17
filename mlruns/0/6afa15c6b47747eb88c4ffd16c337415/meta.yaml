@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/6afa15c6b47747eb88c4ffd16c337415/artifacts
+end_time: 1744846543486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6afa15c6b47747eb88c4ffd16c337415
+run_name: adaptable-bee-64
+run_uuid: 6afa15c6b47747eb88c4ffd16c337415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744846538269
+status: 3
+tags: []
+user_id: jay_s

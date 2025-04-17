@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/3d749074e1b54529ae52c7e5ce6eda74/artifacts
+end_time: 1744850809330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d749074e1b54529ae52c7e5ce6eda74
+run_name: thoughtful-bird-343
+run_uuid: 3d749074e1b54529ae52c7e5ce6eda74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744850801445
+status: 3
+tags: []
+user_id: jay_s

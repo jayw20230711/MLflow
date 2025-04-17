@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/c8c70d2b7646478f9f65f63a52418caf/artifacts
+end_time: 1744845619248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c70d2b7646478f9f65f63a52418caf
+run_name: caring-yak-822
+run_uuid: c8c70d2b7646478f9f65f63a52418caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744845618851
+status: 4
+tags: []
+user_id: jay_s

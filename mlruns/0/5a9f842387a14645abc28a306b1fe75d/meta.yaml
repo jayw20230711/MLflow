@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/5a9f842387a14645abc28a306b1fe75d/artifacts
+end_time: 1744845546687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a9f842387a14645abc28a306b1fe75d
+run_name: wistful-smelt-794
+run_uuid: 5a9f842387a14645abc28a306b1fe75d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744845546603
+status: 4
+tags: []
+user_id: jay_s

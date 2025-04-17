@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/e2ece870f8924a9e8b9b77b70d810106/artifacts
+end_time: 1744850535471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2ece870f8924a9e8b9b77b70d810106
+run_name: gregarious-doe-72
+run_uuid: e2ece870f8924a9e8b9b77b70d810106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744850534899
+status: 4
+tags: []
+user_id: jay_s

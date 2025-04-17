@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/9dce31dfb6b2483cbd7520d1bd48397c/artifacts
+end_time: 1744846492572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dce31dfb6b2483cbd7520d1bd48397c
+run_name: abundant-foal-461
+run_uuid: 9dce31dfb6b2483cbd7520d1bd48397c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744846492159
+status: 4
+tags: []
+user_id: jay_s

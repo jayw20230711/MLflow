@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jay_s/MLflow/mlruns/0/6ef15765632245cda7b54f5b46f89af0/artifacts
+end_time: 1744847713807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ef15765632245cda7b54f5b46f89af0
+run_name: spiffy-duck-679
+run_uuid: 6ef15765632245cda7b54f5b46f89af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744847705206
+status: 3
+tags: []
+user_id: jay_s
